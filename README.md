@@ -1,5 +1,7 @@
-# ml-cookbook
-Welcome to my Machine learning cookbook repository! Here, I keep all of the code that I used for my Medium articles. Each folder contains notebooks that can be run in the Google Colab for the respective articles.
+# ml-cookbook 📚🖥️
+Welcome to my Machine learning cookbook repository! Here, I keep all of the code that I used for my Medium articles. 
+
+Each folder contains notebooks that can be run in the Google Colab for the respective articles.
 
 ## drug_discovery_with_gnnas
 The folder contains notebooks for Medium articles on drug discovery with GNNs
