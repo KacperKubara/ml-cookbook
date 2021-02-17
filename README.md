@@ -18,4 +18,4 @@ The folder contains the code for [Gaussian Mixture Models vs K-Means. Which One 
 ## 📁 graph_generation
 The folder contains the code for articles on graph generation methods.
 
-1) [Generative Graph Models with NetworkX](https://github.com/KacperKubara/ml-cookbook/edit/master/README.md)
+1) [Generative Graph Models with NetworkX](https://towardsdatascience.com/generative-graph-models-with-networkx-727b154ceda4)
